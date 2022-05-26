@@ -1,2 +1,1 @@
-Explicar Passo a Passo do Código em linhas gerais rápidas
-
+Estrutura de um projeto em Linguagem C que terá um menu para um controle aéreo para cadastrar voo, cadastrar a reservar, consultar voo, consultar a reservar do voo, consultar o passageiro, cancelar o voo, cancelar a reservar e excluir o voo. Assim, todos esses serão salvos em um arquivo .dat e terá também algumas analises a serem feitas, como por exemplo se o CPF está correto, entre outros.
